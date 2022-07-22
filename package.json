@@ -1,0 +1,15 @@
+{
+  "name": "grid-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "purgecss --css src/css/custom.css --content index.html -o src/css/style.css "
+  },
+  "keywords": [],
+  "author": "Aracely Alba @AshkoreDev",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
