@@ -7,9 +7,12 @@
     "build": "purgecss --css src/css/custom.css --content index.html -o src/css/style.css "
   },
   "keywords": [],
-  "author": "Aracely Alba @AshkoreDev",
+  "author": "Aracely Alba",
   "license": "MIT",
   "dependencies": {
     "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "purgecss": "^5.0.0"
   }
 }
